@@ -46,5 +46,5 @@ def fetch_input(input_filename="input"):
 
 
 
-print(problem1())
-print(problem2())
+print("Problem 1 solution: " + problem1())
+print("Problem 2 solution: " + problem2())
